@@ -555,7 +555,7 @@ rows: [
 },
 {
 "title": "NSFW MENU",
-"description": `Menampilkan List Fitur Nsfw 18+`,
+"description": `Menampilkan List Fitur Haram Nsfw 18+`,
 "rowId": `${prefix}nsfwmenu`
 },
 {
